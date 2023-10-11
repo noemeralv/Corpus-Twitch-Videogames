@@ -16,3 +16,9 @@ Our corpus includes chats from different Twitch streams, selected based on speci
 To protect privacy, we anonymised all chat messages. We also filtered out messages from Twitch bots (Streamlabs and Nightbot), @ mentions, and URLs. 
 Additionally, we removed messages that only consisted of emotes without any accompanying text. However, messages composed only of emotes were kept if those emotes were of general and frequent use on Twitch (https://www.twitchdatabase.com/global-emotes) and if they were univocal emotes in terms of polarity and emotion.
 
+#Contact
+
+This development belongs to the project "APPLICATION OF ARTIFICIAL INTELLIGENCE IN THE ANALYSIS OF VIDEO GAME CONTENT ON TWITCH". As project leader and manager, the main contact of the team is Noemí Merayo, whose e-mail address is as follows:
+
+noemer@uva.es
+
