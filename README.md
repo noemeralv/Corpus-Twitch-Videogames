@@ -1,8 +1,8 @@
 # Corpus-Twitch-Videogames
 
-This dataset has 2216 samples (Twitch messages) and consists of three variables, Text, Polarity and Emotions, which are described as follows:
+The excel of this repository corresponds to a corpus of video games on Spanish Twitch channels. This dataset has 2216 samples (Twitch messages) and consists of three variables, Text, Polarity and Emotions, which are described as follows:
 
-1. Text: is an independent variable, representing the input feature. These are the raw comments from Twitch users reacting to the stream. This variable will require additional processing in order to analyse it, and details on this processing will be provided later in this article.
+1. Text: a variable that represents the input feature. These are the raw comments from Twitch users reacting to the stream. This variable will require additional processing in order to analyse it.
 2. Polarity: is one of the target variables that can take three values depending on the polarity of the message, Positive (P ), Negative (N ), Indeterminate(N EU ).
 3. Emotion: is one of the target variables that can take six values depending on the emotion of the message, Approval/Empathy/Confidence, Disappointment/Sadness, Disapproval, Anger/Ira, Interest/Acceptance/ Hype, Undetermine
 
