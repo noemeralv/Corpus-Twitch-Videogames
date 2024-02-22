@@ -22,4 +22,7 @@ This development belongs to the project "Application of Artificial Intelligence 
 noemer@uva.es
 rosalia.cotelo@uam.es
 
+## License
 
+
+CORPUS-TWITCH-VIDEOGAMES © 2023 by Noemí Merayo, Rosalía Cotelo, Rocío Carratalá-Sáez, Francisco J. Andújar is licensed under Attribution-NonCommercial-ShareAlike 4.0 International 
