@@ -4,7 +4,7 @@ The Excel of this repository corresponds to a corpus of chats extracted from vid
 
 1. Text: Text: a variable that represents the input feature. These are the raw comments from Twitch users reacting to the stream. This variable will require additional processing to analyse it.
 2. Polarity: is one of the target variables that can take three values depending on the polarity of the message, Positive (P), Negative (N), Indeterminate (NEU).
-3. Emotion: : is one of the target variables that can take six values depending on the emotion of the message: Approval (Approval/Empathy/Confidence) that corresponds with "Aprobación/Empatía/Confianza" in Spanish, Sadness (Disappointment/Sadness) that correspods with "Tristeza/Pena" in Spanish, Disapproval that corresponds with "Desaprobación" in Spanish, Anger that corresponds with "Enfado" in Spanish,  Hype (Interest/Acceptance/Hype) that corresponds with "Interés/Aceptación/Hype" in Spanish and Undetermined that corresponds with "Indeterminado" in Spanish.
+3. Emotion: : is one of the target variables that can take six values depending on the emotion of the message: Approval (Approval/Empathy/Confidence) which corresponds with "Aprobación/Empatía/Confianza" in Spanish, Sadness (Disappointment/Sadness) which correspods with "Tristeza/Pena" in Spanish, Disapproval which corresponds with "Desaprobación" in Spanish, Anger that corresponds with "Enfado" in Spanish,  Hype (Interest/Acceptance/Hype) which corresponds with "Interés/Aceptación/Hype" in Spanish and Undetermined which corresponds with "Indeterminado" in Spanish.
 
 Our corpus includes chats from different Twitch streams, selected based on specific criteria:
 
